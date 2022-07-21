@@ -22,22 +22,22 @@
 
 ### Solved
 
-- 1. FindLetter
+- 1. FindLetter_Small_Capital
 
-- 2. FindGrade
+- 2. Find_Grade
 
-- 3. DecimalNumbers
+- 3. decimal_Numbers
 
-- 4. BoothCollection
+- 4. booth_Collection
 
-- 5. SumOfNumbers
+- 5. sum_Of_numbers
 
-- 6. FactorialNumbers
+- 6. factorial_numbers
 
-- 7. PrimeNumbers
+- 7. prime_numbers
 
-- 8. RandomNumbers
+- 8. random_numbers
 
-- 9. UserInput
+- 9. user_input
 
-- 10. LargeOrSmall
+- 10. largest_smallest
